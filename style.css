@@ -153,6 +153,7 @@ button, a {
     color: white;
     padding: 10px 40px;
     background-image: linear-gradient(to right, orange, tomato);
+    background-size: cover;
     border-radius: 5px;
     font-weight: 700;
 }
