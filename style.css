@@ -13,6 +13,7 @@
     float: right;
     right: 200px;
     position: relative;
+    object-fit: contain;
 }
 
 
